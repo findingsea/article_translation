@@ -1,4 +1,6 @@
-[When to use reinterpret_cast?](https://stackoverflow.com/questions/573294/when-to-use-reinterpret-cast)
+# C++ 什么时候使用 reinterpret_cast ？
+
+原文链接：[When to use reinterpret_cast?](https://stackoverflow.com/questions/573294/when-to-use-reinterpret-cast)
 
 ## 问题
 
